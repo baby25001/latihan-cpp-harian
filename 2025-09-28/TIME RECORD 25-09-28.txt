@@ -1,0 +1,9 @@
+TIME RECORD 25-09-28
+sesi-01
+soal-001 : 01:15
+soal-002 : 02:03
+soal-002 : 04:12
+
+sesi-02
+soal-001 : 01:21
+soal-002 : 03:09
