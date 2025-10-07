@@ -1,0 +1,2 @@
+/* sebetulnya bisa saja dan akan berjalan jika digunakan karena tiap nama sudah didefinisikan sebagai tipe data real atau float, 
+meski mungkin dalam penggunaan program yang lebih rumit akan sedikit membingungkan */
