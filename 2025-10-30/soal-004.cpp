@@ -1,0 +1,1 @@
+// akan kembali lagi setelah belajar mengenai pointer

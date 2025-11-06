@@ -1,0 +1,1 @@
+// akan kembali mengerjakan setelah memahami konsep pointer (blm ngerti meski sudah crosscheck dengan jawaban )
